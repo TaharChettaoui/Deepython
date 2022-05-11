@@ -6,15 +6,23 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 
 ### Notebooks
 
-- name and path
-- goal
-- description
+- Python_basics
+  - Goal: basic/advancaded *python* syntax and tricks
+  - Path: src/Python_basics.ipynb
+  - Description: 
 
 ### ToDo
 
 - coroutine
 - refactoring
 - credential storage
+- decoraters 
+- Yield : https://www.youtube.com/watch?v=5jwV3zxXc8E
+- https://www.programiz.com/python-programming/function-argument
+- functools: https://www.youtube.com/watch?v=kZlOy1BY6lY 
+- multiple inhereticance
+- Inheritance and name mangling
+- static methods
 
 ### Sources
 - https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
