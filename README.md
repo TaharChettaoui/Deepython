@@ -19,8 +19,7 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 - Yield : https://www.youtube.com/watch?v=5jwV3zxXc8E
 - https://www.programiz.com/python-programming/function-argument
 - functools: https://www.youtube.com/watch?v=kZlOy1BY6lY 
-- multiple inhereticance
-- Inheritance and name mangling
+- name mangling
 - static methods
 
 ### Sources
