@@ -22,7 +22,6 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 - multiple inhereticance
 - Inheritance and name mangling
 - static methods
-- Debug
 
 ### Sources
 - https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
