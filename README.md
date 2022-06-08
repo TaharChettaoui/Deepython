@@ -28,6 +28,7 @@ git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe
 - Time/space complexity
 - Python script debugging
 - Python books
+- Cx_freeze 
 
 ### References
 - Apprenez la programmation orientée objet avec Python: https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
