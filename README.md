@@ -30,6 +30,10 @@ git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe
 - Python books
 - Cx_freeze 
 
+### Books
+
+-
+
 ### References
 - Apprenez la programmation orientée objet avec Python: https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
 - 10 Python Tips and Tricks For Writing Better Code: https://www.youtube.com/watch?v=C-gEQdGVXbk
