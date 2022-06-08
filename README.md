@@ -31,3 +31,4 @@ git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe
 - 21 Built-in Python Functions That Improves Your Coding: https://www.youtube.com/watch?v=7p1Gqwf-56s
 - A Simple & Effective Way To Improve Python Class Performance: https://www.youtube.com/watch?v=Fot3_9eDmOs
 - Python: functools.partial: https://www.youtube.com/watch?v=kZlOy1BY6lY
+- 
