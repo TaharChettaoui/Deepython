@@ -7,7 +7,7 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 ### Notebooks
 
 - __Python_basics__: basic/advanced *python* syntax and tricks
-  - Path: src/Python_basics.ipynb
+  - Path: src/notebooks/Python_basics.ipynb
 
 ### ToDo
 
