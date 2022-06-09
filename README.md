@@ -8,15 +8,6 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 
 - __Python_basics__: basic/advanced *python* syntax and tricks
   - Path: src/Python_basics.ipynb
-  - Description: 
-
-### Git credential storage
-
-- (Windows) In order to make Git recognize your SSH configs, I faced a problem where you need to tell Git explicitely to use the internal OpenSSH instead of its own:  
-
-```
-git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe
-```
 
 ### ToDo
 
