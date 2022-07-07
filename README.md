@@ -18,12 +18,7 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 - data structures
 - Time/space complexity
 - Python script debugging
-- Python books
 - Cx_freeze 
-
-### Books
-
--
 
 ### References
 - Apprenez la programmation orientée objet avec Python: https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
@@ -31,3 +26,4 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 - 21 Built-in Python Functions That Improves Your Coding: https://www.youtube.com/watch?v=7p1Gqwf-56s
 - A Simple & Effective Way To Improve Python Class Performance: https://www.youtube.com/watch?v=Fot3_9eDmOs
 - Python functools.partial: https://www.youtube.com/watch?v=kZlOy1BY6lY
+- Book: Think Python: How to Think Like a Computer Scientist by Allen Downey
