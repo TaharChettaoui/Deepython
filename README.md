@@ -7,16 +7,7 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 ### Notebooks
 
 - __Python_basics__: basic/advanced *python* syntax and tricks
-  - Path: src/Python_basics.ipynb
-  - Description: 
-
-### Git credential storage
-
-- (Windows) In order to make Git recognize your SSH configs, I faced a problem where you need to tell Git explicitely to use the internal OpenSSH instead of its own:  
-
-```
-git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe
-```
+  - Path: src/notebooks/Python_basics.ipynb
 
 ### ToDo
 
@@ -27,13 +18,8 @@ git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe
 - data structures
 - Time/space complexity
 - Python script debugging
-- Python books
 - Cx_freeze 
 - Recursion 
-
-### Books
-
--
 
 ### References
 - Apprenez la programmation orientée objet avec Python: https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
@@ -41,3 +27,4 @@ git config --global core.sshCommand C:/Windows/System32/OpenSSH/ssh.exe
 - 21 Built-in Python Functions That Improves Your Coding: https://www.youtube.com/watch?v=7p1Gqwf-56s
 - A Simple & Effective Way To Improve Python Class Performance: https://www.youtube.com/watch?v=Fot3_9eDmOs
 - Python functools.partial: https://www.youtube.com/watch?v=kZlOy1BY6lY
+- Book: Think Python: How to Think Like a Computer Scientist by Allen Downey
