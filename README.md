@@ -16,7 +16,7 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 - decoraters 
 - Yield : https://www.youtube.com/watch?v=5jwV3zxXc8E
 - data structures
-- Time/space complexity
+- Design patterns
 - Python script debugging
 - Cx_freeze 
 - Recursion 
@@ -28,3 +28,5 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 - A Simple & Effective Way To Improve Python Class Performance: https://www.youtube.com/watch?v=Fot3_9eDmOs
 - Python functools.partial: https://www.youtube.com/watch?v=kZlOy1BY6lY
 - Book: Think Python: How to Think Like a Computer Scientist by Allen Downey
+- Big-O complexities: https://www.bigocheatsheet.com/
+- Algorithms and Data Structures Cheatsheet: https://algs4.cs.princeton.edu/cheatsheet/
