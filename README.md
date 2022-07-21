@@ -12,7 +12,7 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 ### ToDo
 
 - coroutine
-- refactoring
+- refactoring https://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf  
 - decoraters 
 - Yield : https://www.youtube.com/watch?v=5jwV3zxXc8E
 - data structures
@@ -20,6 +20,8 @@ Most of the notebooks are oriented on deeplearning and the others are focused on
 - Python script debugging
 - Cx_freeze 
 - Recursion 
+- Clean code https://user-images.githubusercontent.com/35653122/51113192-86f8d880-1801-11e9-90ad-88dd58854a18.png https://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf 
+- AI cheatsheet: https://www.linkedin.com/pulse/cheat-sheets-ai-neural-networks-machine-learning-deep-vu-thach-an/ 
 
 ### References
 - Apprenez la programmation orientée objet avec Python: https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python
