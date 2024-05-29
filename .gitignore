@@ -1,0 +1,5 @@
+dataset/*
+.idea/
+
+src/.ipynb_checkpoints/
+documentation/.ipynb_checkpoints/
